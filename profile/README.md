@@ -27,4 +27,4 @@ Many advantages result from this approach, including enhanced crop output, less
 
 ## Contact
 
-If you have any questions about our project or would like to get involved, please feel free to contact us at contact@hurudza.com. We look forward to hearing from you!
+If you have any questions about our project or would like to get involved, please feel free to contact us at contact@octadot.co. We look forward to hearing from you!
