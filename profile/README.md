@@ -13,7 +13,7 @@ These initiatives are an asset to the agricultural sector, as their benefits are
 
 In particular, it takes into consideration the design of a data management system applied to agriculture. 
 
-The solution is to create a digital and electronic platform that provides access to information on crops and agricultural data using a mobile application, allowing the user to monitor the weather, get information on crops, and control the irrigation.
+The solution is to create a digital and electronic platform that provides access to information on crops and agricultural data using a mobile application, allowing the user to monitor the weather, get information on crops, and control irrigation.
 
 ## Project Insights
 
