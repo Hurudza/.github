@@ -1,4 +1,10 @@
 # Hurudza
+take a look at it 
+#website 
+https://silver-dolphin-943964.builder-preview.com/
+#app ui 
+https://framer.com/share/Hurudza--tv8p1lM7mSuLQVNM6T5p/usMeh7XO1
+
 
 Welcome to the official GitHub organization of the Hurudza team! We are a group of innovative young minds and enthusiasts who are passionate about creating a digital platform which offers access to
 agricultural data through a mobile application.
