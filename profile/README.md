@@ -26,7 +26,7 @@ The solution is to create a digital and electronic platform that provides access
 
 The expansion and prosperity of countries around the world have always benefited significantly from agriculture. A more urgent need for creative approaches to boost agricultural output has nevertheless emerged as a result of the world’s expanding population and shifting climatic conditions.
 
-The concept of "Hurudza" is introduced in this context.
+The concept of "**Hurudza**" is introduced in this context.
 
 Hurudza, named after the Shona term for "super farmer," is a suggested remedy that seeks to transform the agriculture industry by putting in place an electronic and digital data management system. Farmers would have access to crop and agricultural data through this system, allowing them to make more intelligent decisions and increase productivity. The platform would be created as a mobile application, allowing farmers to quickly track weather patterns and learn about operating irrigation systems and managing crops. As As a result, farmers would be able to maximize crop yields, cut waste, and boost income, ultimately promoting food security and economic prosperity.
 
