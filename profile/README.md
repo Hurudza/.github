@@ -3,7 +3,7 @@ take a look at it
 **website**
 [https://cutt.ly/Hurudza-Smart-farming](https://cutt.ly/Hurudza-Smart-farming)
 
-[https://cutt.ly/Hurudza-Smart-farming](URL"https://cutt.ly/Hurudza-Smart-farming" target="_blank")
+[https://cutt.ly/Hurudza-Smart-farming](https://cutt.ly/Hurudza-Smart-farming target="_blank")
 
 <a href="https://cutt.ly/Hurudza-Smart-farming" target="_blank">https://cutt.ly/Hurudza-Smart-farming</a>
 target="_blank"
