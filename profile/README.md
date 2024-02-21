@@ -1,8 +1,8 @@
 # Hurudza
 take a look at it 
-#website 
-https://silver-dolphin-943964.builder-preview.com/
-#app ui 
+**website **
+[https://cutt.ly/Hurudza-Smart-farming](https://cutt.ly/Hurudza-Smart-farming)
+**app ui** 
 https://framer.com/share/Hurudza--tv8p1lM7mSuLQVNM6T5p/usMeh7XO1
 
 
