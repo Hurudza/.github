@@ -3,6 +3,8 @@ take a look at it
 **website**
 [https://cutt.ly/Hurudza-Smart-farming](https://cutt.ly/Hurudza-Smart-farming)
 
+<a href="https://cutt.ly/Hurudza-Smart-farming" target="_blank">https://cutt.ly/Hurudza-Smart-farming</a>
+
  **App UI** 
 https://framer.com/share/Hurudza--tv8p1lM7mSuLQVNM6T5p/usMeh7XO1
 
