@@ -2,7 +2,8 @@
 take a look at it 
 **website**
 [https://cutt.ly/Hurudza-Smart-farming](https://cutt.ly/Hurudza-Smart-farming)
- <br>**App UI** 
+
+ **App UI** 
 https://framer.com/share/Hurudza--tv8p1lM7mSuLQVNM6T5p/usMeh7XO1
 
 
