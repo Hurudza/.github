@@ -12,7 +12,7 @@ agricultural data through a mobile application.
 
 ## Project Description
 
-This idea is inspired by the Shona word "Hurudza," a Zimbabwean word meaning "super farmer."
+This idea is inspired by the Shona word **"Hurudza"**, a Zimbabwean word meaning "super farmer."
 
 A prospective idea that can make the world a better place insofar as farming is concerned.
 
